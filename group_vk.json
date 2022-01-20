@@ -1,0 +1,107 @@
+{
+  "response": {
+    "count": 10,
+    "items": [
+      {
+        "id": 65960786,
+        "name": "Лепрозорий",
+        "screen_name": "leprazo",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-95.userapi.com/s/v1/if1/YPtx1eolfb3F7dqHsUm8OLVUHYhIk0DDik8fU6KwNEMjZ1MgK6NpeOM2RCtDqeuAmBcaL578.jpg?size=50x50&quality=96&crop=48,58,984,984&ava=1",
+        "photo_100": "https://sun1-95.userapi.com/s/v1/if1/-SSkeJvHAQb7pDPRiVJ6ii5GTCAgqALd9J4RHsIi72_hAbwfENMqckE-oVx4pUgq4F7hxWLS.jpg?size=100x100&quality=96&crop=48,58,984,984&ava=1",
+        "photo_200": "https://sun1-95.userapi.com/s/v1/if1/0_Rk3HVbt1Bpo7JpW6EN3bZAPEKaiuIPJpLvP927HkRUaSarCgMD4LGHefeFLfO6RsSKx5sS.jpg?size=200x200&quality=96&crop=48,58,984,984&ava=1"
+      },
+      {
+        "id": 30022666,
+        "name": "Лепра",
+        "screen_name": "leprum",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-24.userapi.com/s/v1/if1/5fWNOUdEPzSDFfu0twpcxnDCJ7aSgjXjL5JfVoDT7qDiKck7GaCedjMbh-9A7a3OhZr-Og.jpg?size=50x50&quality=96&crop=0,0,2048,2048&ava=1",
+        "photo_100": "https://sun1-24.userapi.com/s/v1/if1/bHJ7V2Xc87MrL8OvzJ4ODLg-vrPYybFGAlV_G7-IhIOYRogeFf2Sk8SLWEhYQPgxFULI5Q.jpg?size=100x100&quality=96&crop=0,0,2048,2048&ava=1",
+        "photo_200": "https://sun1-24.userapi.com/s/v1/if1/TNr01EU-05_hYwST1cgLhkllgLZasv8hWbab5kr1vc-FcEAGnLkWiglcTcf-8IB1zb0fLA.jpg?size=200x200&quality=96&crop=0,0,2048,2048&ava=1"
+      },
+      {
+        "id": 58010960,
+        "name": "Тайны Истории",
+        "screen_name": "history_mystery",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-91.userapi.com/s/v1/if1/CK2s2rSPK1wxRmVgDUzFRv6KOE0fRAx4ZtpnZjV2E0dJ0S6sGLGuG8IKFTRMuG-NgG80Hw.jpg?size=50x50&quality=96&crop=472,225,563,563&ava=1",
+        "photo_100": "https://sun1-91.userapi.com/s/v1/if1/aHo8usY6S9S5y_5uRGbK9dwPJpXSg2yaiQ8zwvo5Z29H9qCzxRKnUbmkEoWhooS-gWMDwA.jpg?size=100x100&quality=96&crop=472,225,563,563&ava=1",
+        "photo_200": "https://sun1-91.userapi.com/s/v1/if1/EVDqzQ5ZJE7TKlsT0ccErFMzlV76SqpBO7Onu2-_VG_XMS6YGcxzwqVM_XHpY93EzOZstA.jpg?size=200x200&quality=96&crop=472,225,563,563&ava=1"
+      },
+      {
+        "id": 20225241,
+        "name": "Тинькофф",
+        "screen_name": "tinkoffbank",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-96.userapi.com/s/v1/if2/VgXdNnGP6JqPm8WY3BCPu5vFR4WgXDOqoyaW-hQfFUQ0qv7bTi7g4vGAAUFv1IahYmsayawSYy18xV4fb4vymmkd.jpg?size=50x50&quality=96&crop=12,12,228,228&ava=1",
+        "photo_100": "https://sun1-96.userapi.com/s/v1/if2/CpBPekthGhWdbIk0HWwy6HmiCnq3PLfTOcJGibJxkV5PUOWFzCxRohXoPbXJNWXhy4BlVoYhNyhO6vk7RpDpzhxo.jpg?size=100x100&quality=96&crop=12,12,228,228&ava=1",
+        "photo_200": "https://sun1-96.userapi.com/s/v1/if2/YP92PxqdaSw1s9OCISaY15NqCKUgmys2DXHIp3iVwwhQBcRckVxZWWtXWvgNXpAxgKzfZxsk4u_puaku0D8_FnSE.jpg?size=200x200&quality=96&crop=12,12,228,228&ava=1"
+      },
+      {
+        "id": 22798006,
+        "name": "Киномания - Лучшие фильмы",
+        "screen_name": "kino_mania",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-95.userapi.com/s/v1/if2/y4z8os_YIqWqGFimi0lymbUJwEc5wU5IOjsVwR_dRe_CBdJdG9mNoVcgIjrNWXe712XGIA_Ahbga2xrM-s01mMIS.jpg?size=50x50&quality=96&crop=0,0,200,200&ava=1",
+        "photo_100": "https://sun1-95.userapi.com/s/v1/if2/RNXocvdI9ki_QMUp85p-Ah0RsTU1HHMLOLe0jkL1yA6HMhS7ihJlqyLplgZEghouKvy6c6X7Na7A7CW2UoU2P1uJ.jpg?size=100x100&quality=96&crop=0,0,200,200&ava=1",
+        "photo_200": "https://sun1-95.userapi.com/s/v1/if2/zGEcqMYPxUFpV499k5pTFn2H-TMbFpe6VWlMtK_7tETlSh9XRQHFbCxX_p-c69kGNUdoXkNxTeirsI6067yHR-EJ.jpg?size=200x200&quality=96&crop=0,0,200,200&ava=1"
+      },
+      {
+        "id": 42923159,
+        "name": "MRZLK",
+        "screen_name": "mrzlk",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-57.userapi.com/s/v1/ig2/XGas2Uk_OuOILDzDDTJke1MIZDLG-xsNidW_hYPXP0lLDntiy_nCuxNBEyKWkLDlnLZWkZRZWrum4c6_W1-0Gn5N.jpg?size=50x50&quality=95&crop=0,0,1080,1080&ava=1",
+        "photo_100": "https://sun1-57.userapi.com/s/v1/ig2/dJW7FwLAuUDkMPGQYgz8bhVg8uUAoY8n8AJ71EwtbdyOz9NyhjtNMHjSdNOsQAbznjYMd36NChAuFJZKqJGVzKYC.jpg?size=100x100&quality=95&crop=0,0,1080,1080&ava=1",
+        "photo_200": "https://sun1-57.userapi.com/s/v1/ig2/Eg0ZvmRPtIIytNiDjeKuVInDhjX4nE5-onTKxrsR53xsW_MwcAtVGQfgeD2uT8Q6inNe2ndA0kA4mQDLXMMQHEEB.jpg?size=200x200&quality=95&crop=0,0,1080,1080&ava=1"
+      },
+      {
+        "id": 46371384,
+        "name": "АБ | Юмор",
+        "screen_name": "business.place",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-95.userapi.com/s/v1/ig2/6JPqUVi96SpIaoV4mUi8R72dMIEA6EHxKUNF7QO9eUkW2dUfyQ-mJB_s8o86aY8Wf23lC4Q1DPhygdYVh9W6O4cz.jpg?size=50x50&quality=96&crop=112,0,543,543&ava=1",
+        "photo_100": "https://sun1-95.userapi.com/s/v1/ig2/JPXJ4RLHeZcAcgpp44-YTdRigYEx1KsUzS44MiL_D95_NjZGN4s_gASkmnLURSL_Cm-M_--uowd_zG_Db4IaoENd.jpg?size=100x100&quality=96&crop=112,0,543,543&ava=1",
+        "photo_200": "https://sun1-95.userapi.com/s/v1/ig2/rhnfhJ4dp7XEVZsIM4Q0UX6wwUwY-jAiK2OCR-QdAK0cU7Bt2X9yokbvVKtFovOBOgwFse8kRFutOO-mOYI-V_FR.jpg?size=200x200&quality=96&crop=112,0,543,543&ava=1"
+      },
+      {
+        "id": 53782768,
+        "name": "История|History",
+        "screen_name": "history_0z",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-28.userapi.com/s/v1/if1/KKh3vk8EtdClB9vXHblFebf0YFZ7HQC-zX6VvYG7CeLfyBfH5Dy2kbMWm1eXJ4EnrO5XIS5U.jpg?size=50x50&quality=96&crop=0,0,640,640&ava=1",
+        "photo_100": "https://sun1-28.userapi.com/s/v1/if1/Jp6k1fJSkk7gvEnE5D0CJPSAxIwnjsVS5e0e7W8WTWsKlUUfRuBxLry0_BYGkT2pX_nTgh2i.jpg?size=100x100&quality=96&crop=0,0,640,640&ava=1",
+        "photo_200": "https://sun1-28.userapi.com/s/v1/if1/Hy7U3-j0lxuR13PQ1wVYDGsgjsdBrGXPYP39qQVV6XTJlz1jhhag4jPXQy5Xck9htaxIJjae.jpg?size=200x200&quality=96&crop=0,0,640,640&ava=1"
+      },
+      {
+        "id": 55257525,
+        "name": "ФИЛЬМЫ Мажор",
+        "screen_name": "feokin",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-98.userapi.com/s/v1/if1/KuDad2FJMZwAcX7S4eisznQ1cZSI9dTVwbW1f9R0pHXpAljAQ-ZxNjstFcKzqnEsrhUjgB7o.jpg?size=50x50&quality=96&crop=0,72,200,200&ava=1",
+        "photo_100": "https://sun1-98.userapi.com/s/v1/if1/3fC7SByRta5P0mWJs_BLu8TIkW0obXyUn_70zqO1dHC0HjNYCqORwZ5ggkS8VMLBS0r3NaGI.jpg?size=100x100&quality=96&crop=0,72,200,200&ava=1",
+        "photo_200": "https://sun1-98.userapi.com/s/v1/if1/ZyUYG24eEwiGl3VuGt6zy6RGXeDyDz7g12fLEikUD1_sEtu1mU8JCPCG5ODmozcOU2BOcmfJ.jpg?size=200x200&quality=96&crop=0,72,200,200&ava=1"
+      },
+      {
+        "id": 55851877,
+        "name": "Подборки фильмов, сериалов, мультфильмов",
+        "screen_name": "podborkikino",
+        "is_closed": 0,
+        "type": "page",
+        "photo_50": "https://sun1-85.userapi.com/s/v1/if1/Z3ILdjcTaiINHliOjd-yt6rLsUI_Uw7DZ05zRQetSzISVBHDhgRoVDZOUwDA36oqQ8kIjUAY.jpg?size=50x50&quality=96&crop=87,4,699,699&ava=1",
+        "photo_100": "https://sun1-85.userapi.com/s/v1/if1/7eHYXlVXP3nWa-LYFN27XmbloB4Ikk_0PwjGLNkLPVMbQcZFuzFQ-jIaOCHeHfpK5NZWX5sj.jpg?size=100x100&quality=96&crop=87,4,699,699&ava=1",
+        "photo_200": "https://sun1-85.userapi.com/s/v1/if1/-oXktdaNIDKrmCcyyOkbJq_PLH5Xtu1sGYMe3-o5-XXTi4LOBUiIgBFGbyq5p-8cdaKpaL_U.jpg?size=200x200&quality=96&crop=87,4,699,699&ava=1"
+      }
+    ]
+  }
+}
