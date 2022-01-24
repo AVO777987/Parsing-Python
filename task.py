@@ -1,7 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
-from pprint import pprint
+import pandas
 
 url = 'https://hh.ru/vacancies/sistemnyy_administrator'
 params = {
@@ -63,5 +63,6 @@ while(True):
         break
     params['page'] += 1
 
+print(pandas.DataFrame(vacancys))
 with open('vacancy.json', 'w', encoding='utf-8') as file:
     json.dump(vacancys, file, ensure_ascii=False)
