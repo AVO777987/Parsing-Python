@@ -37,6 +37,11 @@ while(True):
                     compensation_max = compensations[2]
                     compensation_valut = compensations[3]
                     compensation = [int(compensation_min), int(compensation_max), compensation_valut]
+                else:
+                    compensation_min = compensations[0]
+                    compensation_max = None
+                    compensation_valut = compensations[1]
+                    compensation = [int(compensation_min), compensation_max, compensation_valut]
         else:
             compensation = None
         employer = vacancy.find('a', {'data-qa': 'vacancy-serp__vacancy-employer'})
@@ -62,6 +67,7 @@ while(True):
     if not page_next:
         break
     params['page'] += 1
+
 
 print(pandas.DataFrame(vacancys))
 with open('vacancy.json', 'w', encoding='utf-8') as file:
