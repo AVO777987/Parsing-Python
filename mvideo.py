@@ -1,7 +1,11 @@
-from pprint import pprint
+from pymongo import MongoClient
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+
+client = MongoClient('127.0.0.1', 27017)
+db = client['database']
+mvideo_bd = db.mvideo
 
 driver = webdriver.Chrome(executable_path='./chromedriver')
 driver.maximize_window()
@@ -15,7 +19,6 @@ while True:
         break
     except:
         elem.send_keys(Keys.PAGE_DOWN)
-data = []
 prices = []
 elem = driver.find_elements(By.XPATH, "//mvid-carousel[contains(@class, 'carusel')]")[0]
 elems = elem.find_elements(By.XPATH, ".//span[@class='price__main-value']")
@@ -33,7 +36,5 @@ for el in elems:
         img_src[i] = f'https:{img_src[i].replace(" ", "").replace("50w", "").replace("65w", "").replace("480w", "").replace("95w", "").replace("200w", "").replace("80w", "").replace("600w", "")}'
     product['img_src'] = img_src
     product['price'] = prices[product_item]
-    data.append(product)
     product_item += 1
-
-pprint(data)
+    mvideo_bd.insert_one(product)
